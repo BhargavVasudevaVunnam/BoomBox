@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoomBox/static/css/main.69f56a3f.css",
+    "main.js": "/BoomBox/static/js/main.112a6dfb.js",
+    "index.html": "/BoomBox/index.html",
+    "main.69f56a3f.css.map": "/BoomBox/static/css/main.69f56a3f.css.map",
+    "main.112a6dfb.js.map": "/BoomBox/static/js/main.112a6dfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f56a3f.css",
+    "static/js/main.112a6dfb.js"
+  ]
+}
