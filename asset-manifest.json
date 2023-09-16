@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/BoomBox/static/css/main.69f56a3f.css",
-    "main.js": "/BoomBox/static/js/main.112a6dfb.js",
+    "main.css": "/BoomBox/static/css/main.1b4652cb.css",
+    "main.js": "/BoomBox/static/js/main.353c5c4c.js",
+    "static/media/black.png": "/BoomBox/static/media/black.54bbf958cfb20b4bb972.png",
     "index.html": "/BoomBox/index.html",
-    "main.69f56a3f.css.map": "/BoomBox/static/css/main.69f56a3f.css.map",
-    "main.112a6dfb.js.map": "/BoomBox/static/js/main.112a6dfb.js.map"
+    "main.1b4652cb.css.map": "/BoomBox/static/css/main.1b4652cb.css.map",
+    "main.353c5c4c.js.map": "/BoomBox/static/js/main.353c5c4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f56a3f.css",
-    "static/js/main.112a6dfb.js"
+    "static/css/main.1b4652cb.css",
+    "static/js/main.353c5c4c.js"
   ]
 }
